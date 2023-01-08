@@ -42,7 +42,12 @@ body{
     border-radius: 0.8rem;
     
 }
-
+.text{
+    text-align: center;
+    background-color: var(--primary-color);
+    margin-top: 0.5rem;
+    
+}
 #translator:hover{
     background-color: green;
 }
