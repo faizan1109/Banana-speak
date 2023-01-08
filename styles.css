@@ -45,10 +45,8 @@ body{
 #translator:hover{
     background-color: green;
 }
-.translated-text{
-    text-align: center;
-    
-}
+
+
 #output{
     margin:auto;
     margin-top:1rem;
